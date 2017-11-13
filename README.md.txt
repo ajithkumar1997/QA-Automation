@@ -1,1 +1,0 @@
-Selinium script - QA automation - Core Java
